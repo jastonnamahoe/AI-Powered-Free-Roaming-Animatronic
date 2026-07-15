@@ -1,0 +1,7 @@
+This folder contains a comprehensive collection of visual documentation 
+for the project.
+
+Contents include:
+- Construction.
+- Operations.
+- Media Types: Images and video recordings.
